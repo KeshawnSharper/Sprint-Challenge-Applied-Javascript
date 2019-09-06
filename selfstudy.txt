@@ -1,0 +1,24 @@
+What is the DOM?
+
+the DOM is a representation of your HTML to the browser and allows you to manipulate the page.
+
+What is an event?
+
+vents are "things" that happen to HTML elements.
+
+When JavaScript is used in HTML pages, JavaScript can "react" on these events
+
+
+What is an event listener?
+
+An event listener is a procedure or function in a computer program that waits for an event to occur.
+
+
+Why would we convert a NodeList into an Array?
+
+To access array methods
+
+
+What is a component?
+
+a function that contains a portion of the web page 
